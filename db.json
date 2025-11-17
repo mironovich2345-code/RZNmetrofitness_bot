@@ -1,0 +1,595 @@
+{
+  "members": {
+    "266789839": {
+      "id": 266789839,
+      "username": null,
+      "first_name": "Алексей",
+      "phone": "+79122840090",
+      "ref_code": "0d334a3c",
+      "referred_by": "2215bcb5",
+      "ui": "MAIN",
+      "ui_prev": "WANT_CONTACT",
+      "points": 0,
+      "tier": "Нет статуса",
+      "tmp_promo": null,
+      "bcast_draft": null,
+      "ref_last_shared_ts": 0,
+      "is_client": false,
+      "contract_no": null
+    },
+    "369929541": {
+      "id": 369929541,
+      "username": "sinnerpolly",
+      "first_name": "Поли",
+      "phone": "+79117046540",
+      "ref_code": "12fd67d9",
+      "referred_by": "5ab8c80e",
+      "ui": "METRICS_MAIN",
+      "ui_prev": "STATUS",
+      "points": 0,
+      "tier": "Нет статуса",
+      "tmp_promo": null,
+      "bcast_draft": null,
+      "ref_last_shared_ts": 0,
+      "is_client": true,
+      "contract_no": null
+    },
+    "448081047": {
+      "id": 448081047,
+      "username": "salutSi",
+      "first_name": "Александр",
+      "phone": null,
+      "ref_code": "c951a1d1",
+      "referred_by": null,
+      "ui": "SCHEDULE",
+      "points": 0,
+      "tier": "Нет статуса",
+      "compact": true
+    },
+    "448682220": {
+      "id": 448682220,
+      "username": "wtf_nastya",
+      "first_name": "Anastasiia Golubeva",
+      "phone": "+79826233809",
+      "ref_code": "5598c3ab",
+      "referred_by": null,
+      "ui": "MAIN",
+      "points": 0,
+      "tier": "Нет статуса",
+      "compact": true
+    },
+    "470060196": {
+      "id": 470060196,
+      "username": "Spogorzhelyi",
+      "first_name": "Viacheslav",
+      "phone": null,
+      "ref_code": "785ee4b3",
+      "referred_by": null,
+      "ui": "MAIN",
+      "ui_prev": "MAIN",
+      "points": 0,
+      "tier": "Нет статуса",
+      "compact": true,
+      "tmp_promo": null,
+      "bcast_draft": null
+    },
+    "515285114": {
+      "id": 515285114,
+      "username": "Dariya_Bel",
+      "first_name": "Dariya",
+      "phone": null,
+      "ref_code": "4813a6b3",
+      "referred_by": null,
+      "ui": "MAIN",
+      "points": 0,
+      "tier": "Нет статуса",
+      "compact": true
+    },
+    "662538109": {
+      "id": 662538109,
+      "username": "dovesmex",
+      "first_name": "Ксения",
+      "phone": null,
+      "ref_code": "737c0d22",
+      "referred_by": null,
+      "ui": "SUPPORT_MANAGER",
+      "points": 0,
+      "tier": "Нет статуса",
+      "compact": true
+    },
+    "683698170": {
+      "id": 683698170,
+      "username": "Olechka_63k",
+      "first_name": "Ольга",
+      "phone": null,
+      "ref_code": "f3ae81ec",
+      "referred_by": null,
+      "ui": "SCHEDULE",
+      "points": 0,
+      "tier": "Нет статуса",
+      "compact": true,
+      "ui_prev": "MAIN",
+      "tmp_promo": null,
+      "bcast_draft": null
+    },
+    "772797526": {
+      "id": 772797526,
+      "username": "mironovich_d",
+      "first_name": "Danil",
+      "ref_code": "2215bcb5",
+      "referred_by": null,
+      "phone": "+79527541445",
+      "ui": "MAIN",
+      "points": 183,
+      "tier": "Бриллиант",
+      "compact": true,
+      "tmp_promo": "birthday",
+      "bcast_draft": {
+        "text": "Добрый вечер."
+      },
+      "ui_prev": "ADM_MENU",
+      "ref_last_shared_ts": 1763397728490,
+      "is_client": true,
+      "contract_no": "Меню менеджера"
+    },
+    "833188425": {
+      "id": 833188425,
+      "username": "ufigggr_st",
+      "first_name": "ufigggr",
+      "phone": null,
+      "ref_code": "e5bd0cc5",
+      "referred_by": null,
+      "ui": "INVITE",
+      "points": 0,
+      "tier": "Нет статуса",
+      "compact": true
+    },
+    "1064885863": {
+      "id": 1064885863,
+      "username": "ty6xi",
+      "first_name": "ty6xi",
+      "phone": "+79156175707",
+      "ref_code": "69830739",
+      "referred_by": "5ab8c80e",
+      "ui": "STATUS",
+      "points": 1,
+      "tier": "Нет статуса",
+      "compact": true,
+      "tmp_promo": "birthday",
+      "bcast_draft": null,
+      "ui_prev": "MAIN",
+      "ref_last_shared_ts": 1763312624715,
+      "is_client": false,
+      "contract_no": null
+    },
+    "1373187905": {
+      "id": 1373187905,
+      "username": "ivan_fitness_78",
+      "first_name": "Иван",
+      "phone": "+79235178687",
+      "ref_code": "3d3f7063",
+      "referred_by": null,
+      "ui": "SUPPORT_COACH",
+      "points": 0,
+      "tier": "Нет статуса",
+      "compact": true,
+      "subscribed_channel": false
+    },
+    "1758476850": {
+      "id": 1758476850,
+      "username": "mrssshn",
+      "first_name": "Крис",
+      "ref_code": "aa55f4d3",
+      "referred_by": "2215bcb5",
+      "phone": "+79833827946",
+      "points": 2,
+      "tier": "Нет статуса",
+      "tmp_promo": null,
+      "bcast_draft": null,
+      "ui": "METRICS_MAIN",
+      "ui_prev": "STATUS",
+      "ref_last_shared_ts": 1763223420204,
+      "is_client": true,
+      "contract_no": "777-213"
+    },
+    "7302131779": {
+      "id": 7302131779,
+      "username": "MIR_ON_II",
+      "first_name": "MIR",
+      "phone": "+79955701399",
+      "ref_code": "5ab8c80e",
+      "referred_by": null,
+      "ui": "STATUS",
+      "points": 0,
+      "tier": "Нет статуса",
+      "tmp_promo": "tradein",
+      "bcast_draft": null
+    },
+    "8079735415": {
+      "id": 8079735415,
+      "username": "alya_dmitr",
+      "first_name": "Альбина",
+      "phone": "+79511055465",
+      "ref_code": "9cf7e8cf",
+      "referred_by": null,
+      "ui": "SUBMIT_status_wa",
+      "points": 0,
+      "tier": "Нет статуса",
+      "compact": true,
+      "ui_prev": "MAIN",
+      "tmp_promo": null,
+      "bcast_draft": null,
+      "ref_last_shared_ts": 1763383538982,
+      "is_client": true,
+      "contract_no": null
+    },
+    "7970495822": {
+      "id": 7970495822,
+      "username": "forrrrgo",
+      "first_name": "Тот кто",
+      "phone": null,
+      "ref_code": "99d8ed74",
+      "referred_by": "2215bcb5",
+      "ui": "MAIN",
+      "ui_prev": "MAIN",
+      "points": 0,
+      "tier": "Нет статуса",
+      "tmp_promo": null,
+      "bcast_draft": null,
+      "ref_last_shared_ts": 1763267852906,
+      "is_client": false,
+      "contract_no": null
+    },
+    "5957282834": {
+      "id": 5957282834,
+      "username": null,
+      "first_name": "Данияр",
+      "phone": "+79655414167",
+      "ref_code": "a713cd4c",
+      "referred_by": "2215bcb5",
+      "ui": "MAIN",
+      "ui_prev": "WANT_CONTACT",
+      "points": 0,
+      "tier": "Нет статуса",
+      "tmp_promo": null,
+      "bcast_draft": null,
+      "ref_last_shared_ts": 0,
+      "is_client": false,
+      "contract_no": null
+    }
+  },
+  "referrals": [
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "started",
+      "phone": null,
+      "ts": 1762881915888
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "started",
+      "phone": null,
+      "ts": 1762881921642
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "started",
+      "phone": null,
+      "ts": 1762881934335
+    },
+    {
+      "referrer_code": "5ab8c80e",
+      "invitee_id": 1064885863,
+      "stage": "started",
+      "phone": null,
+      "ts": 1763020020048
+    },
+    {
+      "referrer_code": "5ab8c80e",
+      "invitee_id": 1064885863,
+      "stage": "phone",
+      "phone": "+79156175707",
+      "ts": 1763020054211
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "phone",
+      "phone": "+79833827946",
+      "ts": 1763065000771
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": null,
+      "ts": 1763216876596
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": null,
+      "ts": 1763216883404
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": null,
+      "ts": 1763223585951
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": null,
+      "ts": 1763223600812
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763242869707
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763247353811
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763248409626
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763250620721
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763251716594
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763251932659
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763252894342
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763252918042
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763253921838
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763253933140
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763253960608
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 1758476850,
+      "stage": "purchased",
+      "phone": "+79833827946",
+      "ts": 1763254009204
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 7970495822,
+      "stage": "started",
+      "phone": null,
+      "ts": 1763267835818
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 266789839,
+      "stage": "started",
+      "phone": null,
+      "ts": 1763307000747
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 266789839,
+      "stage": "phone",
+      "phone": "+79122840090",
+      "ts": 1763307059643
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 266789839,
+      "stage": "purchased",
+      "phone": "+79122840090",
+      "ts": 1763307085235
+    },
+    {
+      "referrer_code": "5ab8c80e",
+      "invitee_id": 369929541,
+      "stage": "started",
+      "phone": null,
+      "ts": 1763361893485
+    },
+    {
+      "referrer_code": "5ab8c80e",
+      "invitee_id": 369929541,
+      "stage": "phone",
+      "phone": "+79117046540",
+      "ts": 1763361918158
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 5957282834,
+      "stage": "started",
+      "phone": null,
+      "ts": 1763397885863
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 5957282834,
+      "stage": "phone",
+      "phone": "+79655414167",
+      "ts": 1763397924586
+    },
+    {
+      "referrer_code": "2215bcb5",
+      "invitee_id": 5957282834,
+      "stage": "purchased",
+      "phone": null,
+      "ts": 1763397933380
+    }
+  ],
+  "news": [],
+  "schedules": {},
+  "promos": {},
+  "events": [],
+  "config": {
+    "next_submission_id": 10,
+    "last_reminders_run": 1763407475239,
+    "pending_asset_key": null
+  },
+  "assets": {
+    "schedule_dropin": "AgACAgIAAxkBAAIQU2kZDgHG_d79fTuDAngLUggbZ0YOAAJUEWsbY13JSFMM2y4twqruAQADAgADeAADNgQ",
+    "schedule_klyuchevoy": "AgACAgIAAxkBAAIQXWkZDhFUB5qofm90moIhSRQdlc5yAAJVEWsbY13JSA7L5kbSrDM2AQADAgADeAADNgQ"
+  },
+  "activity_submissions": [
+    {
+      "id": 1,
+      "user_id": 1064885863,
+      "type": "status_wa",
+      "evidence_type": "photo",
+      "evidence_value": "AgACAgIAAxkBAAIF9GkVj8l813qjCN42cljTAiZZhU56AAI_DWsbbPCpSPBcTDUMlgRrAQADAgADeQADNgQ",
+      "status": "approved",
+      "approved_by": 772797526,
+      "ts": 1763020745430
+    },
+    {
+      "id": 2,
+      "user_id": 772797526,
+      "type": "review_2gis",
+      "evidence_type": "photo",
+      "evidence_value": "AgACAgIAAxkBAAINU2kYkojMxkN8QPt83fRk-AZTOSgbAAIqDmsbY13JSD5m7Icocyy2AQADAgADeQADNgQ",
+      "status": "rejected",
+      "approved_by": 772797526,
+      "ts": 1763218650656
+    },
+    {
+      "id": 3,
+      "user_id": 772797526,
+      "type": "review_2gis",
+      "evidence_type": "photo",
+      "evidence_value": "AgACAgIAAxkBAAINU2kYkojMxkN8QPt83fRk-AZTOSgbAAIqDmsbY13JSD5m7Icocyy2AQADAgADeQADNgQ",
+      "status": "approved",
+      "approved_by": 772797526,
+      "ts": 1763218671932
+    },
+    {
+      "id": 4,
+      "user_id": 1758476850,
+      "type": "review_2gis",
+      "evidence_type": "photo",
+      "evidence_value": "AgACAgIAAxkBAAIOsmkYqHuhZDgvWK1IyuKkxA2wOP5PAAJoEGsbnD3BSNtBFf1RVb6eAQADAgADeQADNgQ",
+      "status": "approved",
+      "approved_by": 772797526,
+      "ts": 1763223675117
+    },
+    {
+      "id": 5,
+      "user_id": 1758476850,
+      "type": "review_yandex",
+      "evidence_type": "link",
+      "evidence_value": "https://ru.wikipedia.org/wiki/Машина",
+      "status": "approved",
+      "approved_by": 772797526,
+      "ts": 1763223728382
+    },
+    {
+      "id": 6,
+      "user_id": 772797526,
+      "type": "review_2gis",
+      "evidence_type": "photo",
+      "evidence_value": "AgACAgIAAxkBAAIPhGkZC0NL8UG7uRZPP8CeSlVgN3dxAAJOEWsbY13JSGp_ssXgDOtgAQADAgADeQADNgQ",
+      "status": "approved",
+      "approved_by": 772797526,
+      "ts": 1763248963734
+    },
+    {
+      "id": 7,
+      "user_id": 772797526,
+      "type": "review_2gis",
+      "evidence_type": "photo",
+      "evidence_value": "AgACAgIAAxkBAAIPqGkZC6fqrRgH3_bTIj8-RIaVReM8AAJPEWsbY13JSBLTD0pGLC0eAQADAgADeQADNgQ",
+      "status": "rejected",
+      "approved_by": 772797526,
+      "ts": 1763249063359
+    },
+    {
+      "id": 8,
+      "user_id": 772797526,
+      "type": "review_2gis",
+      "evidence_type": "photo",
+      "evidence_value": "AgACAgIAAxkBAAIPqGkZC6fqrRgH3_bTIj8-RIaVReM8AAJPEWsbY13JSBLTD0pGLC0eAQADAgADeQADNgQ",
+      "status": "rejected",
+      "approved_by": 772797526,
+      "ts": 1763249092115
+    },
+    {
+      "id": 9,
+      "user_id": 772797526,
+      "type": "review_2gis",
+      "evidence_type": "photo",
+      "evidence_value": "AgACAgIAAxkBAAIRB2kZE-WcBYAQba9CYJWNUTnqEjpcAAJfEWsbY13JSMU7TuyZ99XBAQADAgADeAADNgQ",
+      "status": "approved",
+      "approved_by": 772797526,
+      "ts": 1763251173828
+    }
+  ],
+  "qr_cache": {
+    "69830739": "AgACAgIAAxkDAAISOmkaA_E8be3Bw6I_T8Z9L5BWjfy7AAJUEGsbfR7RSAs8wOAD2GwZAQADAgADbQADNgQ",
+    "2215bcb5": "AgACAgIAAxkDAAICEWkUd9Y6Fdr-frCsSUdOpylQkGsoAAKPC2sbaYqpSLJpWA1z-tbMAQADAgADbQADNgQ",
+    "c951a1d1": "AgACAgIAAxkDAAIEEmkUwpqjtrBjhhE99R62YIqn8hHPAAKVDmsb2mGpSAYQpLYUvxJ0AQADAgADbQADNgQ",
+    "5ab8c80e": "AgACAgIAAxkDAAIFlGkVjMgzsGJyYa223-5DQ6OHhOYvAALAC2sboz6xSJLM9zjAKUG6AQADAgADbQADNgQ",
+    "aa55f4d3": "AgACAgIAAxkDAAIOf2kYp3zwFyIthfoxbxcwJ5emf9idAAIxD2sbZ7DISBXhL2zBgXnDAQADAgADbQADNgQ",
+    "99d8ed74": "AgACAgIAAxkDAAIRyWkZVQ52KtPLmE6O6VC1r18ZW8-wAAIXC2sb5erRSNzc4sbp273HAQADAgADbQADNgQ",
+    "9cf7e8cf": "AgACAgIAAxkDAAISrWkbGPM2gkJOYZXNbBZgOs1pIvCQAAL3Dmsb6enZSIZQA3VeoFvgAQADAgADbQADNgQ"
+  },
+  "pending_purchase": {}
+}
